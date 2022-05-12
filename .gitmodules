@@ -1,0 +1,3 @@
+[submodule "AplicacionHijo1"]
+	path = AplicacionHijo1
+	url = https://github.com/JOBFER1/AplicacionHijo1.git
